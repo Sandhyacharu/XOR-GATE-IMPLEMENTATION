@@ -12,9 +12,13 @@ The XOR gate stands for the Exclusive-OR gate. This gate is a special type of ga
 
 ## Algorithm:
 1.Import the required libraries.
+
 2.Create the training dataset.
+
 3.Create the neural network model with one hidden layer.
+
 4.Train the model with training data.
+
 5.Now test the model with testing data.
 
 ## Program:
