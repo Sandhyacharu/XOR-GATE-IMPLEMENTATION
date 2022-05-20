@@ -22,9 +22,9 @@ The XOR gate stands for the Exclusive-OR gate. This gate is a special type of ga
 5.Now test the model with testing data.
 
 ## Program:
-Program to implement XOR Logic Gate.
-Developed by   : N Sandhya Charu
-RegisterNumber : 212220230041
+### Program to implement XOR Logic Gate.
+### Developed by   : N Sandhya Charu
+### RegisterNumber : 212220230041
 ```python3
 import numpy as np
 from keras.models import Sequential
