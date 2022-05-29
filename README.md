@@ -25,6 +25,7 @@ The information of a neural network is stored in the interconnections between th
 
 <br>
 <br>
+<br>
 
 ## Program:
 ```python3
