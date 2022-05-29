@@ -23,11 +23,15 @@ The information of a neural network is stored in the interconnections between th
 
 5.Now test the model with testing data.
 
+<br>
+<br>
+
 ## Program:
-### Program to implement XOR Logic Gate.
-### Developed by   : N Sandhya Charu
-### RegisterNumber : 212220230041
 ```python3
+Program to implement XOR Logic Gate.
+Developed by   : N Sandhya Charu
+RegisterNumber : 212220230041
+
 import numpy as np
 from keras.models import Sequential
 from keras.layers.core import Dense
