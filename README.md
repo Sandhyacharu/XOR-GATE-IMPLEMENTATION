@@ -23,12 +23,6 @@ The information of a neural network is stored in the interconnections between th
 
 5.Now test the model with testing data.
 
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ## Program:
 ```python3
 Program to implement XOR Logic Gate.
